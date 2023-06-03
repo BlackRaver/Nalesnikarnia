@@ -5,7 +5,7 @@ from pancake_klonowy import PancakeKlonowy
 from nalesnik import Nalesnik
 from obsluga import Obsluga 
 
-class TestNalesnikZSerem(unittest.TestCase):
+class TestNalesnik(unittest.TestCase):
     settings.init()
 
     #@unittest.skip('take to much time')
