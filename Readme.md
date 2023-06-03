@@ -20,3 +20,15 @@ Nastepnie jest wykonane sprawdzenie poprawdności utwożonego przez  builder Nal
 
 -Test4
 Jest powtórzeniem Testu3 tylko że wykostuje builder klasy PancakeKlonowy
+
+Wykorzystane narzędzia i technologie:
+-Python
+biblioteki
+   -time
+   -unittest
+  
+-VisualStudioCode
+pluginy
+  -Python
+  -Pylance
+
