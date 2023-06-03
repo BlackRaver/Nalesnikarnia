@@ -27,7 +27,7 @@ class Nalesnik:
     def polejSosem(self,polewa,polewaOpis = None):
         if polewaOpis is not None:
             print(f'Dekorowanie składnikami: ({polewaOpis})')
-            self.farsz.append([t for t in polewa])
+            self.polewa.append([t for t in polewa])
             time.sleep(3)
             print(f'Naleśnik wypełniony i złożony') 
 

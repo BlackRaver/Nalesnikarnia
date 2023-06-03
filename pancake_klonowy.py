@@ -11,7 +11,7 @@ class PancakeKlonowy:
                 self.progress = settings.Czynnosc.smazony
                 self.nalesnik.usmaz(settings.Rodzaj.pancake,4)   
 
-        def wypelnijFarszem(self):#to do
+        def wypelnijFarszem(self):
                 self.progress = settings.Czynnosc.wypelniany
                 farsz = None
                 farsz_items = None

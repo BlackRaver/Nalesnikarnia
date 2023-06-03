@@ -27,7 +27,7 @@ def main():
     settings.init()
     while True:
         
-        builders = dict(s=NalesnikZSerem, p=PancakeKlonowy, pb=Nalesnik_Bananowe_Szalenstwo, zsz=ZiemniaczanySzpinakowy)
+        builders = dict(s=PancakeKlonowy, p=PancakeKlonowy, pb=Nalesnik_Bananowe_Szalenstwo, zsz=ZiemniaczanySzpinakowy)
         czyMamyWKarcie = False
         print('______________________________________________________')
         print(f'Witam! Czy moge przyjąć zamówienie?')
